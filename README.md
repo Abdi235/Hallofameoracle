@@ -24,5 +24,5 @@ This project combines machine learning and modern web development to provide acc
 - Clean and responsive user interface
 - Data visualization (optional depending on version)
 
-## 📁 Project Structure
+
 
